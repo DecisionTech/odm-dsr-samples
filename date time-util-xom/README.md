@@ -13,3 +13,7 @@ This is just a quick example of how to add some unique logic using Java to an OD
 3. Check date-time-util-xom and click OK
 
 <img width="712" alt="image" src="https://user-images.githubusercontent.com/18425410/49475552-64b87780-f7cc-11e8-9eb2-d2cf835af927.png">
+
+4. In the Decision Service Map, click on create BOM
+
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/18425410/49475621-8dd90800-f7cc-11e8-93b5-8257e130b0b5.png">
