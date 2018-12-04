@@ -1,6 +1,6 @@
 # date-time-util-xom
 
-This is just a quick example of how to add some unique logic using Java to an ODM BOM. 
+This is just a quick example of how to add some unique logic using Java to an ODM BOM. Th datetime-util-xom.zip above here is a Java project exported from Rule Designer (eclipse) that you can import into Rule Designer and make use of using the steps below. This is just a raw example of how to add some custom Java logic to the rules. Changing the return type of the timeDifference method used would allow you to use the logic in the IF part of a rule. 
 
 1. In the Decision Service Map, click on import XOM
 
