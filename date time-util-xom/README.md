@@ -21,3 +21,7 @@ This is just a quick example of how to add some unique logic using Java to an OD
 5. Pick a creative name better than model1, make sure that Create a BOM entry from a XOM is selected, and click Next
 
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/18425410/49475698-bfea6a00-f7cc-11e8-85e3-be67ea3a7993.png">
+
+6. On the New BOM Entry dialog page, click Browse XOM, select platform:/datetime-util-xom, and click OK
+
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/18425410/49475855-35563a80-f7cd-11e8-907e-150e8350a22c.png">
