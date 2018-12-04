@@ -30,6 +30,14 @@ This is just a quick example of how to add some unique logic using Java to an OD
 
 <img width="273" alt="image" src="https://user-images.githubusercontent.com/18425410/49475958-7fd7b700-f7cd-11e8-8ee6-c842c84f7c63.png">
 
-8. 
+8. Open the project that contains your BOM and double click on the timeDifference(date,date)
 
-9. 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/18425410/49476076-c62d1600-f7cd-11e8-86f0-1f69f5d6968a.png">
+
+
+9. Change the verbalization as seen below
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/18425410/49476111-ee1c7980-f7cd-11e8-9e48-04759ac67471.png">
+
+10. Add the phrase to the action of a rule
+
+Enj0y!
