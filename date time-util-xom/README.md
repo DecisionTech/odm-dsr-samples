@@ -25,3 +25,11 @@ This is just a quick example of how to add some unique logic using Java to an OD
 6. On the New BOM Entry dialog page, click Browse XOM, select platform:/datetime-util-xom, and click OK
 
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/18425410/49475855-35563a80-f7cd-11e8-907e-150e8350a22c.png">
+
+7. Check the xom.demo checkbox and click Finish
+
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/18425410/49475958-7fd7b700-f7cd-11e8-8ee6-c842c84f7c63.png">
+
+8. 
+
+9. 
