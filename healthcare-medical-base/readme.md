@@ -17,9 +17,9 @@ Source: http://en.wikipedia.org/wiki/Drug_interaction
 
 Requires access to ODM Rules. 
 
-### Getting Started
+## Getting Started
 Please follow these instructions:
-# Add eGit to your Rule Studio environment
+### Add eGit to your Rule Studio environment
 1. From Rule Studio, click Help and click Install New Software
 
 2. Enter http://download.eclipse.org/egit/updates into the Work with field and click Enter
@@ -31,3 +31,8 @@ Please follow these instructions:
 5. On the Insall Details page, validate the page contents and click Next
 
 6. On the Review Licenses page, validate the license text, select the "I accept the terms of the license agreement" if you agree, and click Finish
+
+### Use eGit to import into your Rule Studio workspace
+1. Open the Git Repositories view
+    - Click on Window, Show View, Other...
+    - Find Git Repositories and click Open
