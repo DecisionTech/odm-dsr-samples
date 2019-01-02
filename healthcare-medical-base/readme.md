@@ -19,4 +19,15 @@ Requires access to ODM Rules.
 
 ### Getting Started
 Please follow these instructions:
-# TODO
+# Add eGit to your Rule Studio environment
+1. From Rule Studio, click Help and click Install New Software
+
+2. Enter http://download.eclipse.org/egit/updates into the Work with field and click Enter
+
+3. Check the box for Git integration for Eclipise and click Next
+
+4. On the Install Remediation Page, validate the page contents and click Next
+
+5. On the Insall Details page, validate the page contents and click Next
+
+6. On the Review Licenses page, validate the license text, select the "I accept the terms of the license agreement" if you agree, and click Finish
